@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="#FrontWeek​​ - Projeto Portifólio" title="" src="https://raw.githubusercontent.com/jeanoliveira92/frontweekspidermanmilesmorales/b1eeaeff5fc82e4ddb4aa16f7cff6fc49642bee8/src/img/logo.svg" width="250px" />
+    <h1>PORTIFÓLIO</h1>
 </h1>
 
 <p align="center">
@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <img alt="Loading" src="https://raw.githubusercontent.com/jeanoliveira92/frontweekspidermanmilesmorales/main/src/img/screenshot.png" width="100%">
+  <img alt="Loading" src="https://github.com/jeanoliveira92/frontweekportifolio/blob/main/screenshot.png?raw=true" width="100%">
 </p>
 <p align="center">
-  <img alt="Homepage" src="https://github.com/jeanoliveira92/frontweekspidermanmilesmorales/blob/main/src/img/screenshot.gif" width="100%">
+<img alt="Homepage" src="https://github.com/jeanoliveira92/frontweekportifolio/blob/main/screenshot.gif?raw=true" width="100%">
 </p>
 
 ## :rocket: Tecnologias
